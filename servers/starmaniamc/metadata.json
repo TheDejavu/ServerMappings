@@ -1,0 +1,41 @@
+{
+  "id": "starmaniamc",
+  "name": "StarmaniaMC",
+  "website": "https://starmaniamc.net",
+  "store": "https://store.starmaniamc.net",
+  "description": "Player modern and legacy factions.",
+  "addresses": [
+    "starmaniamc.net"
+  ],
+  "primaryAddress": "play.starmaniamc.net",
+  "primaryColor": "#12C2E9",
+  "secondaryColor": "#C371ED",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.20.*",
+    "1.21.*",
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "1.20",
+  "primaryRegion": "US",
+  "regions": [
+    "US"
+  ],
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Competitive",
+    "Factions",
+    "Adventure",
+    "Open World"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/starmania"
+  },
+  "compliance": {
+    "rules": "https://bit.ly/mustafarrules"
+  }
+}
